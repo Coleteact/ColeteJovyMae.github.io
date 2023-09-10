@@ -1,0 +1,59 @@
+body {
+  background-color: lightblue;
+}
+
+img{
+ display:block;
+ margin-left:auto;
+ margin-right:auto;
+}
+
+#line1{
+    text-align:center;
+    background-color:Gray;
+}
+
+#Motto h2{
+    text-align: center;
+    background-color: black;
+    color:white;
+    font-style:italic;
+}
+
+.line2{
+    font-family: Verdana;
+    font-weight: Bold;
+}
+
+.line2 h4{
+    font-style:italic;2q
+    
+}
+
+.line3 h4{
+    font-weight: bold;
+}
+
+.line3 h5{
+ color:purple;
+ font-style:italic;
+}
+
+.line4 h4{
+ font-weight: bold;
+}
+
+.line4 h5{
+font-style:italic;
+color:purple;
+}
+
+
+.line5 h4{
+ font-style:italic;
+}
+
+.line6 h4{
+ font-style:italic;
+ color: purple;
+}
